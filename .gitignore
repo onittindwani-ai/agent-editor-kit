@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+
+# Your own project data and brand answers stay on your machine
+agent-editor/project/
+agent-editor/out/
+brand/profile.md
+brand/theme.json
+brand/voice-log.md
+brand/rules-log.md
+scripts-output/

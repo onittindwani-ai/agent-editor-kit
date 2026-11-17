@@ -1,0 +1,7 @@
+{
+  "palette": {"bg": "#F4F6FA", "surface": "#FFFFFF", "ink": "#14181F", "muted": "#5B6475", "accent": "#1F6FEB", "ok": "#1E8E4E", "warn": "#C26A00"},
+  "fonts": {"heading": "Inter Bold", "body": "Inter Medium", "accent": "Fraunces Italic"},
+  "background": {"type": "solid", "path": null},
+  "radius": 28,
+  "shadow": "soft"
+}
